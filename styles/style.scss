@@ -1,0 +1,15 @@
+$color-fonfo: rgb(186, 139, 208);
+$color-letra: rgb(27, 54, 161);
+
+h1,
+h2,
+h3 {
+
+    color: $color-letra;
+}
+
+.container {
+    div {
+        background-color: $color-fonfo;
+    }
+}
