@@ -1,7 +1,7 @@
 h1,
 h2,
 h3 {
-  color: rgb(27, 54, 161);
+  color: rgb(27, 54, 161) !important;
 }
 
 .container div {
@@ -23,34 +23,6 @@ nav ul li {
   display: inline-block;
 }
 
-.img {
-  display: block;
-  margin-top: 30px;
-  width: 90%;
-  margin: 0 auto;
-}
-
 #navbarNav {
   background-color: #6610f2;
-}
-.parrafo{
-  text-align: justify;
-}
-
-.imgg{
-  display: block;
-  margin: 0px auto;
-}
-@media (max-width:500px) 
-{
-  .img {
-    width: 50%;
-    border-radius: 50%;
-
-  }
-}
-
-
-
-
-  /*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
