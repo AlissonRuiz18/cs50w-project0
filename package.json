@@ -1,0 +1,23 @@
+{
+  "name": "cs50w-project0",
+  "version": "1.0.0",
+  "description": "Primer projecto Web50 , pagina web construida con el framework boostrap ,HTML , CSS Y SASS,  agregando como parte de este framework , su grid layout , un navbar responsive con javascript para tamanios de pantalla  < 1000px un menu desplegable , he agregado media query para que la pagina sea responsive , falta mucho por hacer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlissonRuiz18/cs50w-project0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlissonRuiz18/cs50w-project0/issues"
+  },
+  "homepage": "https://github.com/AlissonRuiz18/cs50w-project0#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
