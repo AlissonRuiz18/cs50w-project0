@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AlissonRuiz18/cs50w-project0#readme",
   "dependencies": {
-    "bootstrap": "^5.2.0"
+    "bootstrap": "^5.2.0",
+    "gh-pages": "^4.0.0"
   }
 }
