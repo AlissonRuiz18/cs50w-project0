@@ -1,0 +1,2 @@
+# cs50w-project0
+:rocket:Primer projecto Web50:rocket:, pagina web construida con el framework boostrap ,HTML , CSS Y SASS,  agregando como parte de este framework , su grid layout , un navbar responsive con javascript para tamanios de pantalla  < 1000px un menu desplegable , he agregado media query para que la pagina sea responsive , la tematica es sobre vuelos espaciales , contiene una estetica referida al espacio.
